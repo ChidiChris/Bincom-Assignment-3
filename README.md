@@ -40,7 +40,7 @@ The page uses modern CSS for a dark theme, rounded containers, and readable typo
 
 📁 Personal-Profile-Page/
 │
-├── `index.php`  # Main profile page
+├── `profile.php`  # Main profile page
 ├── `README.md`  # Project documentation
 
 ---
@@ -69,7 +69,7 @@ git clone https://github.com/ChidiChris/Bincom-Assignment-3.git
 
 2. Place the project in your local server directory (e.g., `htdocs` for XAMPP).
 3. Start your local server (Apache/PHP).
-4. Open `index.php` in your browser.
+4. Open `profile.php` in your browser.
 
 ---
 
